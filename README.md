@@ -7,6 +7,8 @@ Two parts are included:
 All data files are in the data folder.  
 All source codes are in the code folder.
 
+How to run
+---
 Run train_attack_detect.py to train the CNN.  
 Run train_attack__detect_linear to train a linear network on CSIC dataset.  
 attack_fast_gradient.py and test_adversarial.py provide 2 different ways to change the rural sample into an adversarial sample. 
