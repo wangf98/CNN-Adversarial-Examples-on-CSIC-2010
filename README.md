@@ -1,8 +1,8 @@
-# CNN-Adversarial-Exemples-on-CSIC-2010
+# CNN-Adversarial-Examples-on-CSIC-2010
 Two parts are included:
 ---
 * An implement of CNN on CSIC 2010 database
-* Get some adversarial exmemples using gradiat descending method based on the existing CNN 
+* Get some adversarial exmamples using gradiat descending method based on the existing CNN 
 
 All data files are in the data folder.  
 All source codes are in the code folder.
